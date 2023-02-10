@@ -1,4 +1,6 @@
 # Credit_Card_Fraud_Detection
+
+<img src="image.png" width="400" height="300">
 The data set contains transactions made by credit cards in September 2013 by European cardholders. It consists of transactions that occured in 2 days, where 492 of the transactions are fraud, out of 284 807 transactions.
 
 - The data set contains only numerical input values which are the result of a PCA transformation. Unfortunately due to confidentiality issues, more background information about the data and the original features cannot be provided. 
