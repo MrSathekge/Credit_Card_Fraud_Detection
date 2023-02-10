@@ -7,6 +7,7 @@ The data set contains transactions made by credit cards in September 2013 by Eur
 -  Features V1, V2 up to V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'.
 - 'Time' contains the seconds elapsed between each transaction and the first transaction in the data set. 'Amount' is the transaction amount, 'Class' is the response variable and it takes values `1 in case of fraud` and `0 otherwise`.
 
+The dataset can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Solution Overview
 
