@@ -10,7 +10,7 @@ The data set contains transactions made by credit cards in September 2013 by Eur
 
 In this notebook, we aimed to develop a machine learning model for detecting fraudulent credit card transactions. The problem of credit card fraud is becoming increasingly prevalent and it is important to have an accurate and reliable system for detecting fraud in real-time.
 
-We evaluated several machine learning models including logistic regression, random forest, and xgb classifier. We found that the xgb classifier performed the best with an accuracy of 85.88% on the testing data.
+We evaluated several machine learning models including logistic regression, random forest, and xgb classifier. We found that the xgb classifier performed the best with an accuracy of 84.884 on the testing data.
 
 The model was able to accurately detect fraud with a precision of 93% and a recall of 78%. These results indicate that our model is capable of detecting the majority of fraudulent transactions while minimizing the number of false positive alerts.
 
