@@ -4,7 +4,7 @@ The data set contains transactions made by credit cards in September 2013 by Eur
 - The data set contains only numerical input values which are the result of a PCA transformation. Unfortunately due to confidentiality issues, more background information about the data and the original features cannot be provided. 
 -  Features V1, V2 up to V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'.
 - 'Time' contains the seconds elapsed between each transaction and the first transaction in the data set. 'Amount' is the transaction amount, 'Class' is the response variable and it takes values `1 in case of fraud` and `0 otherwise`.
-- Given the class imbalance ratio, we recommend measuring the accuracy using the area under the precision recall Kev AUPRC. Confusion matrix accuracy is not meaningful for an unbalanced classification.
+
 
 # Solution Overview
 
